@@ -110,3 +110,5 @@ RegisterNumber: 23002920
 ![292669364-8d6ee27f-bce1-448b-9bbc-a7d185c39fa2](https://github.com/Rajagopalvengatesan/Experiment-08-Encoders-and-decoders-/assets/144870784/b11737d5-3139-4542-a82a-faa6982eb98b)
 
 ### RESULTS 
+
+Thus the program to design encoder and decoder is done 
