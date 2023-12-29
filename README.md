@@ -62,25 +62,39 @@ D7 = X Y Z
 ### PROGRAM 
 /*
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: RAJAGOPAL V 
+RegisterNumber: 23002920
 */
+### Code 
+### ENCODER 
+![292669242-4935459f-e3d5-421d-9751-ac618a5e80f3](https://github.com/Rajagopalvengatesan/Experiment-08-Encoders-and-decoders-/assets/144870784/7f7ec72f-6ce9-4363-89ca-3cb3c1593226)
 
+### DECODER 
 
-
+![292669275-0c3c1120-7c83-482a-a1ca-ef0f541c1223](https://github.com/Rajagopalvengatesan/Experiment-08-Encoders-and-decoders-/assets/144870784/0af0fd31-eeef-458f-93e6-e3c59ce70959)
 
 
 
 ### RTL LOGIC  
+### ENCODER 
+![292669293-27485317-6cb8-41f3-9a9a-200e7dc9a14a](https://github.com/Rajagopalvengatesan/Experiment-08-Encoders-and-decoders-/assets/144870784/8c2c6d5d-5b45-4457-ae44-a710e08ad92c)
+
+### DECODER
 
 
-
-
+![292669309-ab63cadc-8a25-4e7c-afef-84142dce209f](https://github.com/Rajagopalvengatesan/Experiment-08-Encoders-and-decoders-/assets/144870784/eac0d2ea-9964-41a9-8b47-57de7e6df903)
 
 
 
 
 ### TIMING DIGRAMS  
+
+### ENCODER 
+
+![292669376-fb533307-29bc-40f1-acdc-61f3114c07ad](https://github.com/Rajagopalvengatesan/Experiment-08-Encoders-and-decoders-/assets/144870784/44ff2c71-e7b7-43c2-bf3a-b2004b8c9825)
+
+### DECODER 
+![292669389-b4e2be5b-af03-4a8b-9dee-289a79450913](https://github.com/Rajagopalvengatesan/Experiment-08-Encoders-and-decoders-/assets/144870784/00fda088-6ddb-4482-a5fe-7f86cc7360c8)
 
 
 
@@ -88,9 +102,11 @@ RegisterNumber:
 
 ### TRUTH TABLE 
 
+### ENCODER 
 
+![292669345-6283fa44-f4f0-457f-9221-ab529559c4fe](https://github.com/Rajagopalvengatesan/Experiment-08-Encoders-and-decoders-/assets/144870784/56e2ac67-1469-4e75-b067-9e0192f04934)
 
-
-
+### DECODER 
+![292669364-8d6ee27f-bce1-448b-9bbc-a7d185c39fa2](https://github.com/Rajagopalvengatesan/Experiment-08-Encoders-and-decoders-/assets/144870784/b11737d5-3139-4542-a82a-faa6982eb98b)
 
 ### RESULTS 
